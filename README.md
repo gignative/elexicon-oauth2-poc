@@ -12,6 +12,7 @@
 
     Currently allowed callback URLs   http://localhost:8080/oauth2/callback
     Currently allowed logout URLs     http://localhost:8080/oauth2/sign_in
+                                      http://localhost:8080/oauth2/sign_out
 
 ## OAuth2 Test User
 
